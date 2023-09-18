@@ -13,5 +13,5 @@ The challange Order Summary component
 ## Author
 
 - Frontend Mentor - [@camiligomes](https://www.frontendmentor.io/profile/@camiligomes)
-- Twitter - [@GamiliGomesz](https://www.twitter.com/CamiliGomesz)
+- Twitter - [@CamiliGomesz](https://www.twitter.com/CamiliGomesz)
 
